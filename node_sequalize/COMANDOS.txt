@@ -1,0 +1,2 @@
+yarn add express pg pg-hstore sequelize
+yarn add sequelize-cli -D
